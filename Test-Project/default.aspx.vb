@@ -3,7 +3,7 @@
 
     Protected Sub Page_Load(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Load
         Label1.Text = My.Settings.configfile
-        'change
+        'change, more changes
     End Sub
 
 End Class
